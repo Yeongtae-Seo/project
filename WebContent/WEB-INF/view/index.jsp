@@ -5,9 +5,9 @@
 <%@ taglib prefix="functions" uri="http://java.sun.com/jsp/jstl/functions" %>
 <html>
 <head>
-<title>Insert title here</title>
+<title>MVC</title>
 </head>
 <body>
-
+	<h1>Git을 사용 하는 방법</h1>
 </body>
 </html>
